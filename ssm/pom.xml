@@ -37,6 +37,10 @@
             </plugin>
         </plugins>
     </build>
+	    <groupId>mybata'd's'da'a'da's'daiswork</groupId>
+    <artifactId>ssmadsdaadasdaa'd's'da</artifactId>
+    <version>1adad.0-SNAPSHOT</version>
+    <packaging>war</packaging>
 
 
     <dependencies>
